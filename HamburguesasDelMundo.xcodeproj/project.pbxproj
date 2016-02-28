@@ -14,6 +14,7 @@
 		3495D6C11C83464700E9F98D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3495D6BF1C83464700E9F98D /* LaunchScreen.storyboard */; };
 		3495D6CC1C83464700E9F98D /* HamburguesasDelMundoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3495D6CB1C83464700E9F98D /* HamburguesasDelMundoTests.swift */; };
 		3495D6D71C83464700E9F98D /* HamburguesasDelMundoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3495D6D61C83464700E9F98D /* HamburguesasDelMundoUITests.swift */; };
+		3495D6E51C8346C100E9F98D /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3495D6E41C8346C100E9F98D /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3495D6D21C83464700E9F98D /* HamburguesasDelMundoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HamburguesasDelMundoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3495D6D61C83464700E9F98D /* HamburguesasDelMundoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamburguesasDelMundoUITests.swift; sourceTree = "<group>"; };
 		3495D6D81C83464700E9F98D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3495D6E41C8346C100E9F98D /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3495D6BD1C83464700E9F98D /* Assets.xcassets */,
 				3495D6BF1C83464700E9F98D /* LaunchScreen.storyboard */,
 				3495D6C21C83464700E9F98D /* Info.plist */,
+				3495D6E41C8346C100E9F98D /* Datos.swift */,
 			);
 			path = HamburguesasDelMundo;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				3495D6B91C83464700E9F98D /* ViewController.swift in Sources */,
 				3495D6B71C83464700E9F98D /* AppDelegate.swift in Sources */,
+				3495D6E51C8346C100E9F98D /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
